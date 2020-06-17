@@ -1,2 +1,2 @@
 # RawKit
-A tool kit to integrate my usual thoughts.
+A tool kit to collect daily inspiration.
