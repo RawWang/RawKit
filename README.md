@@ -1,2 +1,2 @@
 # RawKit
-A tool kit to collect daily inspiration.
+A kit of some positive inspiration.
